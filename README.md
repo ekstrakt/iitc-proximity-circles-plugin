@@ -1,2 +1,1 @@
-# iitc-proximity-circles-plugin
-Plugin for Ingress IITC: Draw 20m proximity circles
+Draw circles with 20m radius around portals in Ingress IITC, useful when nominating portals in dense areas
